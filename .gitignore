@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+
+models/
+outputs/
+
+.env
+.DS_Store
+.vscode/
+
+*.pkl
+*.joblib
